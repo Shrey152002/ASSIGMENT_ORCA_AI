@@ -4,8 +4,8 @@ import openai
 import json
 
 # Set the API keys
-GROQ_API_KEY = "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"
-OPENAI_API_KEY = "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"
+GROQ_API_KEY = "**"
+OPENAI_API_KEY = "**"
 
 # Initialize clients
 client_groq = Groq(api_key=GROQ_API_KEY)
